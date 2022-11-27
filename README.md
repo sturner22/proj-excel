@@ -22,3 +22,6 @@ The remaining sheets in this file contain the raw data used in the analysis and 
 [City of Austin Crime Data: 2017](https://data.austintexas.gov/Public-Safety/2017-Annual-Crime/3t4q-mqs5)
 
 [City of Austin Crime Data: 2018](https://data.austintexas.gov/Public-Safety/2018-Annual-Crime/pgvh-cpyq)
+
+#### pizza_order_dashboard
+This Excel file is an interactive dashboard that allows the user to see the grand total for a "pizza order" by selecting a pizza category, type of pizza, size, and quantity. The dataset, "Pizza Place Sales," contains data from a fictitious pizza place and was obtained from [Maven Analytic's Data Playground.](https://www.mavenanalytics.io/data-playground) I used several advanced functions and formulas to create this dashboard, including VLOOKUP, XLOOKUP, SUMPRODUCT, FILTER, conditional formulas, and data validation techniques to create dynamic drop-down menus. As with all of my other Excel files, download the file to use the interactive features. 
